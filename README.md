@@ -5,4 +5,4 @@ Los datos, que abarcan del año 2008 al año 2017, se obtuvieron de [La Red Glob
 
 Mayores contrastes entre el 2017 y años previos:
 * Baja temperatura: 27 de octubre, 3.3 grados centígrados más baja.
-* Alta temperatura: 1 de julio, 6.1 grados centígrados más alta.
+* Alta temperatura: 7 de enero, 6.1 grados centígrados más alta.
