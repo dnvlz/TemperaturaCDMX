@@ -4,7 +4,7 @@ Record temperatures for the year 2017 in CDMX (compared with data from a previou
 
 The data, covering the years 2008 to 2017, was obtained from [The Global Network for Historical Climatology](https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily) (GHCNd). This repository includes a csv [file](https://github.com/dnvlz/TemperaturaCDMX/blob/main/2857621.csv) with the information obtained from said site. The highest and lowest temperatures of the year were averaged per day, from 2008 to 2016, and then compared with the temperatures of the year 2017. The graph shows the days in which the average of the previous years was exceeded. The most important conclusion of this work is that in 2017 there were 39 days that were hotter and 39 that were colder than the average of the previous nine years.
 
-Biggest contrasts between 2017 and previous years:
+Largest contrasts between 2017 and previous years:
 * Low temperature: October 27, 3.3 degrees Celsius lower.
 * High temperature: January 7, 6.1 degrees Celsius higher.
 
